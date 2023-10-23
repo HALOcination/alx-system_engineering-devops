@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # ufw confg
+=======
+# ufw config
+>>>>>>> 12c2f59477a50b7f51a9ec0c31e5b0fcb5053a4f
 sudo ufw default deny incoming
 sudo ufw allow 22/tcp
 sudo ufw allow 443/tcp
